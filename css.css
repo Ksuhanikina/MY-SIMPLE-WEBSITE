@@ -1,0 +1,31 @@
+body {
+  box-sizing: border-box;
+  width: 780px;
+}
+.container {
+  width: 780px;
+  height: 40px;
+  color: red;
+}
+header {
+  text-align: center;
+  color: white;
+  background: red;
+}
+img {
+  border-style: dashed;
+  text-decoration-style: center;
+}
+footer {
+  height: 25px;
+  color: black;
+  text-align: center;
+  color: white;
+  background: black;
+}
+section {
+  text-align: center;
+}
+p {
+  text-align: left;
+}
